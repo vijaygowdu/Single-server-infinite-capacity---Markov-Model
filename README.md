@@ -54,7 +54,8 @@ else:
 print("---------------------------------------------------------------")
 ```
 ## Output :
-![Uploading image.png…]()
+![image](https://github.com/vijaygowdu/Single-server-infinite-capacity---Markov-Model/assets/147473788/09c0e033-9878-49a6-87dc-7ad89866b656)
+
 
 
 ## Result :
